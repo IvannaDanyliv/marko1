@@ -1,0 +1,70 @@
+header{
+    background-color: wheat ;
+}
+main{
+background-color: wheat;
+}
+footer{
+background-color: wheat ;
+}
+h1{
+    text-align: center;
+}
+table{
+     background-color: MediumSpringGreen
+}
+body{
+    background-color: wheat;
+}
+td{
+    border: 2px solid black;
+}
+footer p{
+    background-color: MediumSpringGreen
+}
+img {
+    border: 2px solid black;
+}
+ nav a{
+    background-color: MediumSpringGreen;
+    font-size: 25px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+section{
+    display: flex;
+    justify-content: space-between ;
+    flex-wrap: wrap;
+}
+main a{
+        background-color: white;
+    font-size: 25px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    position: 5px;
+    margin-top:5px;
+    text-align: center;
+    margin-left:  50px;
+}
+footer a{
+     background-color: white;
+    font-size: 25px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+      position: 5px;
+    margin-top:50px;
+    text-align: center;
+    margin-left:  50px;
+    float: right;
+}
